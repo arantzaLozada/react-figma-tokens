@@ -1,0 +1,10 @@
+.button {
+  background: var(--blue-500);
+  padding-top: var(--sm);
+  padding-bottom: var(--sm);
+  padding-left: var(--md);
+  padding-right: var(--md);
+  border-radius: var(--sm);
+  color: var(--text-button);
+  font-weight: var(--font-weights-bold);
+}

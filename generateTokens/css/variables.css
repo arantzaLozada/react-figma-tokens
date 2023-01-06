@@ -1,13 +1,13 @@
 /**
  * Do not edit directly
- * Generated on Thu, 05 Jan 2023 20:19:06 GMT
+ * Generated on Fri, 06 Jan 2023 16:05:42 GMT
  */
 
 :root {
   --token-set-order-0: global;
-  --dark-800: #1a1a1c;
-  --blue-500: #7c4fff;
-  --text-body: #a2a2a5;
+  --dark-800: #1A1A1C;
+  --blue-500: #7C4FFF;
+  --text-body: #A2A2A5;
   --text-link: #c2c2c5;
   --text-button: #fff;
   --text-titles: #e9e9ea;
@@ -39,5 +39,5 @@
   --transparent-8: #ffffff14;
   --big: 56px;
   --biggest: 96px;
-  --color-teal: #007c7f;
+  --color-blue: #142743;
 }

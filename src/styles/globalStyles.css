@@ -1,4 +1,4 @@
-@import url('../../generateTokens/variables.css');
+@import url('../../generateTokens/css/variables.css');
 
 @import url('https://fonts.googleapis.com/css2?family=Hepta+Slab:wght@800;900&family=Maven+Pro:wght@400;700&family=Space+Mono:ital,wght@0,700;1,400&family=Work+Sans:wght@800;900&display=swap');
 
@@ -227,17 +227,6 @@ button {
   padding-right: var(--md);
   border-radius: var(--sm);
   border-radius: var(--sm);
-}
-
-.button {
-  background: var(--blue-500);
-  padding-top: var(--sm);
-  padding-bottom: var(--sm);
-  padding-left: var(--md);
-  padding-right: var(--md);
-  border-radius: var(--sm);
-  color: var(--text-button);
-  font-weight: var(--font-weights-bold);
 }
 
 .input-button {

@@ -157,8 +157,9 @@
     "value": "96px",
     "type": "spacing"
   },
-  "color-teal": {
-    "value": "#007C7F",
-    "type": "color"
+  "color-blue": {
+    "value": "#142743",
+    "type": "color",
+    "description": "change color"
   }
 }

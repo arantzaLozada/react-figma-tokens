@@ -1,3 +1,5 @@
+import { Button } from '../../components/atoms/Button/Button';
+
 export function Home() {
   return (
     <>
@@ -23,7 +25,7 @@ export function Home() {
               placeholder="hola@tucorreo.com"
             />
 
-            <button className="button">¡Suscríbete ahora!</button>
+            <Button />
           </div>
           <footer>
             <a
